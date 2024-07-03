@@ -11,3 +11,7 @@ div{
 
 
 .kim{  margin-right: 30px; width: 60%;        }
+
+
+li{ mask-type: alpha; color: fuchsia; }  
+
